@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Calibri',sans-serif;
+  font-size: 12px;
+}
+
+html {
+  width: 100vw;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+img {
+  width: 100%;
+}
