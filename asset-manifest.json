@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/product-view/static/css/main.8a6d0a90.css",
-    "main.js": "/product-view/static/js/main.b9e51e62.js",
+    "main.js": "/product-view/static/js/main.b93efc81.js",
     "static/media/image-parfum.jpg": "/product-view/static/media/image-parfum.c96d43af17111fe78e96.jpg",
     "index.html": "/product-view/index.html",
     "main.8a6d0a90.css.map": "/product-view/static/css/main.8a6d0a90.css.map",
-    "main.b9e51e62.js.map": "/product-view/static/js/main.b9e51e62.js.map"
+    "main.b93efc81.js.map": "/product-view/static/js/main.b93efc81.js.map"
   },
   "entrypoints": [
     "static/css/main.8a6d0a90.css",
-    "static/js/main.b9e51e62.js"
+    "static/js/main.b93efc81.js"
   ]
 }
